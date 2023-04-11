@@ -5,7 +5,8 @@
   
 <div style="display:flex;">
  <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ErfanMola&data=followers,repositories,stars,commits&theme=carbon" />
- <!--START_SECTION:waka-->
+ <img align="center" src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/gitartwork.svg" />
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
@@ -88,5 +89,4 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
  Last Updated on 10/04/2023 18:36:48 UTC
 <!--END_SECTION:waka-->
- <img align="center" src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/gitartwork.svg" />
 </div>
