@@ -1,11 +1,11 @@
 <div id="header" align="center" >
-  <img src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" height="384" />
-</div>
+  <img src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" height="320" />
 
-### Hi there, Im Erfan Mola (:  
+  <b>Hi there, Im Erfan Mola (:  <b>
   
-  I'm a Fullstack Developer and DevOps Engineer, also an OpenSource enthusiast 💎,  
-  You can find more about me at [ImErfan.ir](https://imerfan.ir/) 🐞.  
+  <p>I'm a Fullstack Developer and DevOps Engineer, also an OpenSource enthusiast 💎,  <br>
+  You can find more about me at [ImErfan.ir](https://imerfan.ir/) 🐞.</p>
+</div>
   
 <div style="display:flex;">
  <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ErfanMola&data=followers,repositories,stars,commits&theme=darkmode" />
