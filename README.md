@@ -1,10 +1,12 @@
 <div id="header" align="center" >
   <img src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" height="320" />
 
-  <b>Hi there, Im Erfan Mola (:  <b>
+  <div>
+    ### Hi there, Im Erfan Mola (:
   
-  <p>I'm a Fullstack Developer and DevOps Engineer, also an OpenSource enthusiast 💎,  <br>
-  You can find more about me at [ImErfan.ir](https://imerfan.ir/) 🐞.</p>
+  I'm a Fullstack Developer and DevOps Engineer, also an OpenSource enthusiast 💎,  <br>
+  You can find more about me at [ImErfan.ir](https://imerfan.ir/) 🐞.
+  </div>
 </div>
   
 <div style="display:flex;">
