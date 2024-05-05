@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" width="950" height="350" />
+  <img src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" height="384" />
 </div>
 
 ### Hi there, Im Erfan Mola (:  
