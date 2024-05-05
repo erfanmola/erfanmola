@@ -1,4 +1,6 @@
- <img align="center" src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" />
+<div id="header" align="center" >
+  <img src="https://raw.githubusercontent.com/erfanmola/erfanmola/main/night.gif" width="950" height="350" />
+</div>
 
 ### Hi there, Im Erfan Mola (:  
   
